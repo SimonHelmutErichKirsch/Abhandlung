@@ -10,7 +10,8 @@
 <find_panel_settings/>
 <vnodes>
 <v t="kirsch.20220515023810.1"><vh>Meta</vh></v>
-<v t="kirsch.20220515032108.1" a="E"><vh>Die Sprache</vh>
+<v t="kirsch.20220516033325.1" a="E"><vh>Die Leitern:</vh>
+<v t="kirsch.20220515032108.1"><vh>Die Sprache</vh>
 <v t="kirsch.20220507002733.2" a="E"><vh> Der (u.a. das Heiligende) bespricht, muss zwischen praktischer, theoretischer und idealer Sprache unterscheiden </vh>
 <v t="kirsch.20220509000429.1" a="E"><vh>Die Praktische Sprache ist Handlungsorientiert* und  ist unterteilt in: </vh>
 <v t="kirsch.20220509000446.1"><vh>Die tatsächliche Sprache, bzw. die Sprachliche Realität einelnzer konkreter Kollektive </vh></v>
@@ -33,7 +34,7 @@
 </v>
 </v>
 <v t="kirsch.20220515030442.1"><vh>Wie eine Sprache ihre Räumlichkeit aufspannt bestimmt ihre Eigenheit und Fähigkeit</vh></v>
-<v t="kirsch.20220515023508.1" a="E"><vh>Die Deutsche Sprache spannt ihre Räumlichkeit durch Verbergen und Entbergen zwischen Wort und Satz</vh>
+<v t="kirsch.20220515023508.1"><vh>Die Deutsche Sprache spannt ihre Räumlichkeit durch Verbergen und Entbergen zwischen Wort und Satz</vh>
 <v t="kirsch.20220515032507.1"><vh>Das Entbergen des Deutschen</vh>
 <v t="kirsch.20220515022703.1"><vh>Der Grundbaustein des Deutschen als Entbergendes ist das einsilbige Wurzelwort*</vh></v>
 <v t="kirsch.20220515022739.1"><vh>Über die verschiedenen Verbindungen einzelner Wurzelwörter werden diese in einen Beziehungszusammenhang gesetzt</vh></v>
@@ -79,6 +80,7 @@
 </v>
 </v>
 </v>
+<v t="kirsch.20220516033037.1"><vh>Die Wahrheit</vh></v>
 <v t="kirsch.20220515032229.1"><vh>Die Arbeitsweise</vh>
 <v t="kirsch.20220515032237.1"><vh>Der Begriff der Arbeit </vh></v>
 <v t="kirsch.20220515040552.1"><vh>Das Spiel als Weise </vh>
@@ -121,6 +123,7 @@
 <v t="kirsch.20220515095245.1"><vh>Diagrammatik</vh></v>
 <v t="kirsch.20220515095226.1"><vh>Kontextualisierung</vh></v>
 <v t="kirsch.20220515094221.1"><vh>Poetische Aneignung</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -210,7 +213,7 @@ Entspricht auchd er Sprachlichkeit des Nebeneinander</t>
 <t tx="kirsch.20220515040544.1">Hier auch Bedeutung wichtig von Stimme als Menschliches Singinstrument
 
 Entspricht auch der Sprachlichkeit des Wortes</t>
-<t tx="kirsch.20220515040552.1"></t>
+<t tx="kirsch.20220515040552.1">Ein alternatives Bild : Prisma/kristall + lichtstrahlen</t>
 <t tx="kirsch.20220515040641.1"></t>
 <t tx="kirsch.20220515040702.1"></t>
 <t tx="kirsch.20220515040716.1"></t>
@@ -253,5 +256,10 @@ Entspricht auch der Sprachlichkeit des Wortes</t>
 Auch Kombinatorik ideen aus deut. Geschichte verweben. </t>
 <t tx="kirsch.20220515101226.1"></t>
 <t tx="kirsch.20220515101330.1"></t>
+<t tx="kirsch.20220516033037.1">Hier ist einerseits auch wieder das Argument geltend, dass erst durch den Vollzug des gewahrens dasjenige der Wahrheit welches sein eigenes ist erblickbar wird, gleichzeitig aber muss zumindest ein rudimentärer epistomologischer Apparat als Leiter vorgestellt werden. 
+
+Die hier vorhandene Idee von Wahrheit ist weder die der Abbildung (vgl. Tractatus) noch die des Gebrauchs (Philosophische Untersuchungen, Sprachpiel insofern die Sprache mit sich selbst spielt.
+-&gt; was nicht benannt wird besitzt epistemisch keine eigenständige Existenz. </t>
+<t tx="kirsch.20220516033325.1"></t>
 </tnodes>
 </leo_file>
