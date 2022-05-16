@@ -11,7 +11,7 @@
 <vnodes>
 <v t="kirsch.20220515023810.1"><vh>Meta</vh></v>
 <v t="kirsch.20220516033325.1" a="E"><vh>Die Leitern:</vh>
-<v t="kirsch.20220515032108.1"><vh>Die Sprache</vh>
+<v t="kirsch.20220515032108.1" a="E"><vh>Die Sprache</vh>
 <v t="kirsch.20220507002733.2" a="E"><vh> Der (u.a. das Heiligende) bespricht, muss zwischen praktischer, theoretischer und idealer Sprache unterscheiden </vh>
 <v t="kirsch.20220509000429.1" a="E"><vh>Die Praktische Sprache ist Handlungsorientiert* und  ist unterteilt in: </vh>
 <v t="kirsch.20220509000446.1"><vh>Die tatsächliche Sprache, bzw. die Sprachliche Realität einelnzer konkreter Kollektive </vh></v>
@@ -34,29 +34,29 @@
 </v>
 </v>
 <v t="kirsch.20220515030442.1"><vh>Wie eine Sprache ihre Räumlichkeit aufspannt bestimmt ihre Eigenheit und Fähigkeit</vh></v>
-<v t="kirsch.20220515023508.1"><vh>Die Deutsche Sprache spannt ihre Räumlichkeit durch Verbergen und Entbergen zwischen Wort und Satz</vh>
-<v t="kirsch.20220515032507.1"><vh>Das Entbergen des Deutschen</vh>
+<v t="kirsch.20220515023508.1" a="E"><vh>Die Deutsche Sprache spannt ihre Räumlichkeit durch Verbergen und Entbergen zwischen Wort und Satz</vh>
+<v t="kirsch.20220515032507.1" a="E"><vh>Das Entbergen des Deutschen</vh>
 <v t="kirsch.20220515022703.1"><vh>Der Grundbaustein des Deutschen als Entbergendes ist das einsilbige Wurzelwort*</vh></v>
 <v t="kirsch.20220515022739.1"><vh>Über die verschiedenen Verbindungen einzelner Wurzelwörter werden diese in einen Beziehungszusammenhang gesetzt</vh></v>
-<v t="kirsch.20220515022826.1"><vh>Das einsilbige Wurzelwort besitzt zwei grundlegende Gehalte</vh>
+<v t="kirsch.20220515022826.1" a="E"><vh>Das einsilbige Wurzelwort besitzt zwei grundlegende Gehalte</vh>
 <v t="kirsch.20220515022924.1"><vh>2. Der Beziehungszusammenhangsgehalt</vh></v>
-<v t="kirsch.20220515022859.1"><vh>1. Der Phänomengehalt</vh>
+<v t="kirsch.20220515022859.1" a="E"><vh>1. Der Phänomengehalt</vh>
 <v t="kirsch.20220515025747.1"><vh>Der Phänomengehalt entbirgt durch das Schaffen einer neuen beziehungsfähigen einfache Einheit </vh></v>
 <v t="kirsch.20220515025950.1"><vh>Indem der Phänomengehalt neue einfache Einheiten schafft, ist er das Entbergen als direkt Ausgesprochenes</vh></v>
 </v>
 </v>
 <v t="kirsch.20220515031955.1"><vh>Die Wortbildung ist die vollkommene Entfaltung des Entbergens des Deutschen</vh></v>
 </v>
-<v t="kirsch.20220515032521.1"><vh>Das Verbergen des Deutschen </vh>
+<v t="kirsch.20220515032521.1" a="E"><vh>Das Verbergen des Deutschen </vh>
 <v t="kirsch.20220515032723.1"><vh>Der Grundbaustein des Verbergens des Deutschen ist das Fremdwort</vh></v>
-<v t="kirsch.20220515032809.1"><vh>Das Fremdwort besitzt zwei Masken</vh>
+<v t="kirsch.20220515032809.1" a="E"><vh>Das Fremdwort besitzt zwei Masken</vh>
 <v t="kirsch.20220515033702.1"><vh>1. Die Maske der inneren Beziehungslosigkeit</vh></v>
 <v t="kirsch.20220515033800.1"><vh>2. Die Maske der zwischeren  Beziehungslosigkeit</vh></v>
 </v>
-<v t="kirsch.20220515032937.1"><vh>Das Fremdwort kann unfremd werden</vh>
+<v t="kirsch.20220515032937.1" a="E"><vh>Das Fremdwort kann unfremd werden</vh>
 <v t="kirsch.20220515033011.1"><vh>Das Unfremde kann wiederum selbst entweder entbergend oder verbergend sein.</vh></v>
 <v t="kirsch.20220515033108.1"><vh>Entbergend ist das Unfremde wenn es dem ursprünglichen Beziehungszusammenhang der Gesamtheit der Wortwurzeln keine Gewalt antut</vh></v>
-<v t="kirsch.20220515033313.1"><vh>Verbergend ist das Unfremde wenn es Gewalt antut, Formen der Gewalt:</vh>
+<v t="kirsch.20220515033313.1" a="E"><vh>Verbergend ist das Unfremde wenn es Gewalt antut, Formen der Gewalt:</vh>
 <v t="kirsch.20220515033318.1"><vh>Füllen einer gehaltigen Leere</vh></v>
 <v t="kirsch.20220515033349.1"><vh>Wiedersinnige Überlagerung</vh></v>
 </v>
@@ -65,12 +65,12 @@
 <v t="kirsch.20220515034330.1"><vh>Eindeutschung der Aussprache </vh></v>
 </v>
 <v t="kirsch.20220515034430.1"><vh>Wort und Satz sind ineinander Umwandelbar.</vh></v>
-<v t="kirsch.20220515034540.1"><vh>Durch die Umwandelbarkeit von Wort und Satz besitzt das Deutsche drei Sprachlichkeiten*</vh>
+<v t="kirsch.20220515034540.1" a="E"><vh>Durch die Umwandelbarkeit von Wort und Satz besitzt das Deutsche drei Sprachlichkeiten*</vh>
 <v t="kirsch.20220515034632.1"><vh>Die Sprachlichkeit des Wortes</vh></v>
 <v t="kirsch.20220515034641.1"><vh>Die Sprachlichkeit des Satzes</vh></v>
 <v t="kirsch.20220515034647.1"><vh>Die Sprachlichkeit des Nebeneinander von Satz und Wort </vh></v>
 </v>
-<v t="kirsch.20220515034818.1"><vh>Vorschläge zur Erweiterung der deutschen Sprache</vh>
+<v t="kirsch.20220515034818.1" a="E"><vh>Vorschläge zur Erweiterung der deutschen Sprache</vh>
 <v t="kirsch.20220515041907.1"><vh>Die Sprachlenkung als ethischer Imperativ</vh></v>
 <v t="kirsch.20220515035029.1"><vh>Das Ausbilden einer entbergenden und verbergenden Schrift</vh></v>
 <v t="kirsch.20220515034840.1"><vh>Die Wortbildung als analytische Grammatik</vh></v>
@@ -81,10 +81,10 @@
 </v>
 </v>
 <v t="kirsch.20220516033037.1"><vh>Die Wahrheit</vh></v>
-<v t="kirsch.20220515032229.1"><vh>Die Arbeitsweise</vh>
+<v t="kirsch.20220515032229.1" a="E"><vh>Die Arbeitsweise</vh>
 <v t="kirsch.20220515032237.1"><vh>Der Begriff der Arbeit </vh></v>
-<v t="kirsch.20220515040552.1"><vh>Das Spiel als Weise </vh>
-<v t="kirsch.20220515041104.1"><vh>Die Formen des Spiels</vh>
+<v t="kirsch.20220515040552.1" a="E"><vh>Das Spiel als Weise </vh>
+<v t="kirsch.20220515041104.1" a="E"><vh>Die Formen des Spiels</vh>
 <v t="kirsch.20220515041110.1"><vh>Gesellschaftlich</vh></v>
 <v t="kirsch.20220515041132.1"><vh>Alleine</vh></v>
 <v t="kirsch.20220515041113.1"><vh>Musikalisch</vh></v>
@@ -94,22 +94,22 @@
 <v t="kirsch.20220515040702.1"><vh>Das Spiel als Hervorbringendes </vh></v>
 <v t="kirsch.20220515040758.1"><vh>Das Glasperlenspiel als Beispiel</vh></v>
 </v>
-<v t="kirsch.20220515101330.1"><vh>Der Aufbau unseres Spiels</vh>
-<v t="kirsch.20220515040544.1"><vh>Die ideale Stimme</vh>
-<v t="kirsch.20220515041646.1"><vh>Die sieben Stimmlichkeiten*:</vh>
+<v t="kirsch.20220515101330.1" a="E"><vh>Der Aufbau unseres Spiels</vh>
+<v t="kirsch.20220515040544.1" a="E"><vh>Die ideale Stimme</vh>
+<v t="kirsch.20220515041646.1" a="E"><vh>Die sieben Stimmlichkeiten*:</vh>
 <v t="kirsch.20220515041824.1"><vh>A Das Stumme</vh></v>
 <v t="kirsch.20220515091017.1"><vh>B Die Stimme</vh></v>
 <v t="kirsch.20220515090232.1"><vh>Stamm</vh></v>
-<v t="kirsch.20220515090318.1"><vh>Stammen</vh>
+<v t="kirsch.20220515090318.1" a="E"><vh>Stammen</vh>
 <v t="kirsch.20220515090308.1"><vh>Stemmen</vh></v>
 </v>
 <v t="kirsch.20220515090909.1"><vh>Stümmel</vh></v>
-<v t="kirsch.20220515090857.1"><vh>Stümmeln</vh>
+<v t="kirsch.20220515090857.1" a="E"><vh>Stümmeln</vh>
 <v t="kirsch.20220515041818.1"><vh>Das Stammeln</vh></v>
 </v>
 </v>
 </v>
-<v t="kirsch.20220515032352.1"><vh>Die praktische  Bestimmung</vh>
+<v t="kirsch.20220515032352.1" a="E"><vh>Die praktische  Bestimmung</vh>
 <v t="kirsch.20220515041516.1" a="E"><vh>Die von uns verwendeten Fragen: </vh>
 <v t="kirsch.20220515041638.1"><vh>Was</vh></v>
 <v t="kirsch.20220515095859.1"><vh>Warum</vh></v>
@@ -119,7 +119,7 @@
 </v>
 <v t="kirsch.20220515040154.1"><vh>Der theoretische Klang</vh></v>
 </v>
-<v t="kirsch.20220515094212.1"><vh>Die Zusätze</vh>
+<v t="kirsch.20220515094212.1" a="E"><vh>Die Zusätze</vh>
 <v t="kirsch.20220515095245.1"><vh>Diagrammatik</vh></v>
 <v t="kirsch.20220515095226.1"><vh>Kontextualisierung</vh></v>
 <v t="kirsch.20220515094221.1"><vh>Poetische Aneignung</vh></v>
@@ -129,7 +129,22 @@
 </vnodes>
 <tnodes>
 <t tx="kirsch.20220507002733.2">
-            </t>
+Über den Begriff des Besprechenden fassen wir einen ersten allgemeinen Startpunkt zur Betrachtung der Sprachlichkeit.
+Das Besprechen lesen wir nämlich hierbei gemäß seines Aufbaus:
+Be + Sprechen = Besprechen
+
+Wichtig zu wissen ist hierbei, das die Vorsilbe Be- in der deutschen Wortbildung für Bei steht.
+Sodass das Besprechen gelesen werden kann als:
+Beim Sprechen 
+
+Dieses "Beim" ist dabei:
+Einerseits: Die notwendige minimale Differenz zur Sprache welche wir benötigen um einen Ort der Betrachtung zu erlangen, welcher nicht sogleich wieder in dieser aufgeht. 
+Andererseits: Das Bekenntnis zur Annahme eines Standpunktes, welcher nicht versucht das zu Betrachtende untersich zu subsumieren, zerteilen o.ä., sondern stattdessen versucht jenem seine Eigenheit zu zugestehen. 
+In anderen Worten, in dem wir einzig "Dabei" sein wollen, vermeiden wir, dass dem zu Betrachtenden Gewalt angetan wird.   
+
+Betrachten wir "unterscheiden" auf die gleiche Weise wie Besprechen, so finden wir in seinem Baustein des "Scheidens" eine auseinandertrennde, ja zertrennende, gewaltsame Eigenheit der Unterscheidung, was, nach dem bisher ausgeführten, gleich einer Ver-Gewalt-igung zuersteinmal scheinen muss. 
+
+Aus dem Willen dem Zu-Betrachtenden keine Gewalt anzutun, muss so hier auch das aus reinen Verständnisgründen gewählte "unterscheiden" anders gelesen werden, nicht sind es Unterteilungen die wir hier aufstellen, nicht versuchen wir hier ein Ganzes im Namen der Klarheit zu zerstümmeln, stattdessen sind es vielmehr Ebenen bzw. Seiten ein und desselben Belassenen.    </t>
 <t tx="kirsch.20220509000429.1">ich muss hier etwas feiner die unterscheidungen in beziehung setzen,  sprachakte unbedacht. 
 Das dialogische und tatsächliche (sprechakte? Sprache als gesprochene konkrete Sprache?) sprachebenen unterscheiden. </t>
 <t tx="kirsch.20220509000446.1">tatsächlich, da für die sprache der Dialog und damit das zwischenmenschliche, und damit das kollektiv konstitutiv sind.  </t>
